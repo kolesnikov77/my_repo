@@ -1,6 +1,6 @@
 import csv
 import os
-
+#изменения внесеные в branch2
 # Устанавливаем имя файла и директорию
 filename = "data.csv"
 directory = r'D:\УлГТУ\2 курс\Разработка проф. приложений'
